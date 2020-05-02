@@ -8,6 +8,9 @@ usage:
 
 Download the standard package from Polygon, then run:
 
-./polygonToHe ZIP_ARCHIVE
+```
+chmod +x ./polygonToHE.sh
+./polygonToHE.sh ZIP_ARCHIVE
+```
 
 it'll create a file named "t.zip" in tests/
